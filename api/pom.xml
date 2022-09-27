@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>api</artifactId>
-    <packaging>jar</packaging>
+
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
@@ -18,5 +18,5 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
-
+    <packaging>jar</packaging>
 </project>
